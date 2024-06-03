@@ -2,9 +2,8 @@
   <p>This is a Python-based face recognition system that can detect and recognise my face in group images.</p>
   <table>
       <tr>
-          <td><img src="face recognition 1.png" alt="Image 1" width="50%" ></td>
-          <td><img src="face recognition 2.png" alt="Image 2" width="50%" ></td>
-      </tr>
+       <td><img src="https://github.com/convenience-tinashe-chibatamoto/images-for-repositories/blob/main/face%20recognition%202.png" alt="Image 2" width="100%" ></td>
+          </tr>
   </table>
   <h2>Features</h2>
     <li><strong>Face Recognition</strong>: The program is designed to perform face recognition, where it can detect and recognize faces in images and video streams.</li>
