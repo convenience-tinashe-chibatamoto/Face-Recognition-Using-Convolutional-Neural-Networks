@@ -1,6 +1,11 @@
   <h1>Face Recognition</h1>
   <p>This is a Python-based face recognition system that can detect and recognise my face in group images.</p>
-
+  <table>
+      <tr>
+          <td><img src="face recognition 1.png" alt="Image 1" width="50%" ></td>
+          <td><img src="face recognition 2.png" alt="Image 2" width="50%" ></td>
+      </tr>
+  </table>
   <h2>Features</h2>
     <li><strong>Face Recognition</strong>: The program is designed to perform face recognition, where it can detect and recognize faces in images and video streams.</li>
     <li><strong>Custom Dataset Training</strong>: The program supports training the machine learning model on a custom dataset of images. The <code>make_train_data</code> function is used to create the dataset for training.</li>
