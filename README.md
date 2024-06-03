@@ -26,7 +26,7 @@
   <h2>Usage</h2>
   <ol>
     <li>Clone the repository:
-      <pre><code>git clone https://github.com/convenience-tinashe-chibatamoto/Face-Recognition.git</code></pre>
+      <pre><code>git clone https://github.com/convenience-tinashe-chibatamoto/Face-Recognition-Using-Convolutional-Neural-Networks.git</code></pre>
     </li>
     <li>Install the required dependencies:
       <pre><code>pip install -r requirements.txt</code></pre>
