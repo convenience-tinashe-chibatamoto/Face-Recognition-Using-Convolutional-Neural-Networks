@@ -1,5 +1,5 @@
   <h1>Face Recognition</h1>
-  <p>This repository contains a Python-based face recognition system that can detect and recognise my face in group images.</p>
+  <p>This is a Python-based face recognition system that can detect and recognise my face in group images.</p>
 
   <h2>Features</h2>
     <li><strong>Face Recognition</strong>: The program is designed to perform face recognition, where it can detect and recognize faces in images and video streams.</li>
